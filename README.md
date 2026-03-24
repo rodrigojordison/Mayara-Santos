@@ -1,5 +1,6 @@
 🧠 Landing Page - Psicóloga
 Uma landing page responsiva desenvolvida para apresentar os serviços de uma psicóloga, com foco em um design acolhedor, moderno e de fácil navegação. O projeto foi construído utilizando tecnologias web básicas, priorizando leveza, acessibilidade e boa experiência do usuário.
+
 🌐 Visualize o projeto:
 Ver Projeto Online
 
