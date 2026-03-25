@@ -3,7 +3,8 @@
 Uma landing page responsiva desenvolvida para apresentar os serviços de uma psicóloga, com foco em um design acolhedor, moderno e de fácil navegação. O projeto foi construído utilizando tecnologias web básicas, priorizando leveza, acessibilidade e boa experiência do usuário.
 
 🌐 Visualize o projeto:
-Ver Projeto Online
+
+(https://rodrigojordison.github.io/Mayara-Santos/)
 
 🛠️ Tecnologias Utilizadas
 <p align="left"> <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> </p>
